@@ -23,5 +23,6 @@ namespace CPUFramework
             dt.Load(dr);
             return dt;
         }
+        //note
     }
 }
